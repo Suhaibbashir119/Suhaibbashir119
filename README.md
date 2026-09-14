@@ -17,7 +17,9 @@
 I'm a **Data Science student** passionate about exploring **Data Science, AI/ML, and software development**. I enjoy turning ideas into practical applications, learning through real-world projects, and continuously expanding my technical skills.
 
 📍 Srinagar, Jammu & Kashmir, India
+<br><br>
 🎓 M.Sc. Data Science — Cluster University Srinagar
+<br><br>
 🔎 Interested in Data Science, AI/ML & practical software development
 
 ---
