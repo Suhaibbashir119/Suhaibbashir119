@@ -1,86 +1,149 @@
-<h1 align="center">Hi 👋, I'm Suhaib Bashir</h1>
-<h3 align="center">QA / Software Tester | Aspiring Data Scientist & AI/ML Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Breaking+software+for+a+living+%F0%9F%90%9B;Learning+Data+Science+%26+AI%2FML+%F0%9F%93%8A;Turning+bugs+into+lessons%2C+not+setbacks" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:2d1b5e,100:1a1035&height=220&section=header&animation=fadeIn" width="100%"/>
+
+<h1 style="margin-top:-150px; color:white;">
+Suhaib Bashir
+</h1>
+
+<p style="color:#C4B5FD; font-size:18px;">
+QA / Software Tester | Data Science & AI-ML Enthusiast
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JunaidHassan19&label=Profile%20Views&color=2F80ED&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/suhaib-bashir119/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:suhaibbashir.119@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Testing+%2B+Python+%2B+Pandas+%2B+Machine+Learning;Data+Science+%26+AI-ML+in+Progress;Learning+by+Building+%26+Testing" alt="Typing SVG"/>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Suhaibbashir119&label=Profile%20Views&color=8957e5&style=for-the-badge)](https://github.com/Suhaibbashir119)
+[![Followers](https://img.shields.io/github/followers/Suhaibbashir119?label=FOLLOWERS&style=for-the-badge&labelColor=444444&color=8957e5)](https://github.com/Suhaibbashir119?tab=followers)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=444444)](https://github.com/Suhaibbashir119)
+
+</div>
 
 ---
 
 ### 🧭 About Me
 
--  I currently work as a **Tester for websites & apps**, hunting down bugs before users find them
--  Actively upskilling toward a career as a **Data Scientist / Analyst** or **AI/ML Engineer**
--  Goal: land my first role in that field within ~2 years
--  Combining a QA mindset (detail-oriented, systematic, breaks things on purpose) with data & ML skills
--  Reach me at **suhaibbashir.119@gmail.com**
+- 🔍 I currently work as a **Tester for websites & apps**, hunting down bugs before users find them.
+- 📊 Actively building my skills toward a career in **Data Science, Data Analytics & AI/ML**.
+- 🧠 Combining a **QA mindset** — detail-oriented, systematic and curious — with data and machine learning.
+- 🐍 Building a strong foundation in **Python, NumPy, Pandas and Data Analysis**.
+- 🤖 Gradually moving toward **Machine Learning and AI** through hands-on learning and projects.
+- 🛠️ I enjoy understanding how things work, breaking them, finding problems and improving them.
+- 📫 Reach me at **suhaibbashir.119@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Languages**
+#### 💻 Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
-**Data Science / AI-ML**
+#### 📊 Data Science & AI/ML
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 </p>
 
-**QA / Testing**
+#### 🔍 QA / Testing
+
 <p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
 </p>
 
-**Tools**
+#### 🧰 Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhaibbashir119&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Suhaibbashir119&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhaibbashir119&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 ### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/suhaib-bashir119/">
-    <img src="https://img.shields.io/badge/-Suhaib%20Bashir-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:suhaibbashir.119@gmail.com">
-    <img src="https://img.shields.io/badge/-suhaibbashir.119@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>⭐️ From testing software to modeling data — one bug fixed, one skill learned at a time.</i></p>
+<a href="https://www.linkedin.com/in/suhaib-bashir119/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Suhaib%20Bashir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:suhaibbashir.119@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-suhaibbashir.119-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Suhaibbashir119">
+
+<img src="https://img.shields.io/badge/GitHub-Suhaibbashir119-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>⭐ From testing software to working with data — one bug fixed, one skill learned at a time.</i>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:2d1b5e,100:1a1035&height=120&section=footer&animation=fadeIn" width="100%"/>
