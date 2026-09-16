@@ -1,144 +1,90 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Suhaib Bashir</h1>
+<h3 align="center">QA / Software Tester | Aspiring Data Scientist & AI/ML Engineer</h3>
 
-# Hi, I'm Suhaib Bashir 👋
-
-### Data Science & AI/ML Enthusiast
-
-<p>
-  <i>Building practical solutions with data, machine learning & technology.</i>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Breaking+software+for+a+living+%F0%9F%90%9B;Learning+Data+Science+%26+AI%2FML+%F0%9F%93%8A;Turning+bugs+into+lessons%2C+not+setbacks" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JunaidHassan19&label=Profile%20Views&color=2F80ED&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/suhaib-bashir119/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:suhaibbashir.119@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧭 About Me
 
-I'm a **Data Science student** passionate about exploring **Data Science, AI/ML, and software development**. I enjoy turning ideas into practical applications, learning through real-world projects, and continuously expanding my technical skills.
-
-📍 Srinagar, Jammu & Kashmir, India
-<br><br>
-🎓 M.Sc. Data Science — Cluster University Srinagar
-<br><br>
-🔎 Interested in Data Science, AI/ML & practical software development
+- 🔍 I currently work as a **Tester for websites & apps**, hunting down bugs before users find them
+- 📊 Actively upskilling toward a career as a **Data Scientist / Analyst** or **AI/ML Engineer**
+- 🎯 Goal: land my first role in that field within ~2 years, targeting **10+ LPA** as a fresher
+- 🧠 Combining a QA mindset (detail-oriented, systematic, breaks things on purpose) with data & ML skills
+- 📫 Reach me at **suhaibbashir.119@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-### Languages
-
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,nodejs" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Data Science & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
+**Data Science / AI-ML**
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### Tools
-
+**QA / Testing**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
+**Tools**
 <p>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 💼 Experience
+### 📊 GitHub Stats
 
-### NIELIT
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JunaidHassan19&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidHassan19&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
 
-**Data Annotation Intern**
-
-Worked on **data annotation using Python** during a one-month internship, gaining practical exposure to working with data and Python-based workflows.
-
-### CodeAlpha
-
-**AI/ML Intern**
-
-Worked on practical AI/ML projects including:
-
-* FAQ Chatbot
-* Language Translation Tool
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidHassan19&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
-## 📜 Certifications
+### 🤝 Connect With Me
 
-* **Career Essentials in Generative AI** — Microsoft & LinkedIn
-* **Data Annotation in Python** — NIELIT
-* **AI/ML Internship Certificate** — CodeAlpha
+<p align="center">
+  <a href="https://www.linkedin.com/in/suhaib-bashir119/">
+    <img src="https://img.shields.io/badge/-Suhaib%20Bashir-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suhaibbashir.119@gmail.com">
+    <img src="https://img.shields.io/badge/-suhaibbashir.119@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
----
-
-## 📚 Currently Learning
-
-* 🐍 Python for Data Science
-* 📱 Flutter
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SuhaibBashir119&hide_border=true" />
-
-</div>
-
----
-
-## 💡 A Little About Me
-
-> I learn best by building real projects.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:suhaibbashir.119@gmail.com">
-  <img src="https://img.shields.io/badge/Email-suhaibbashir.119-informational?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/suhaib-bashir119/">
-  <img src="https://img.shields.io/badge/LinkedIn-Suhaib%20Bashir-informational?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@suhaib.119">
-  <img src="https://img.shields.io/badge/Medium-Suhaib%20Bashir-informational?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<i>Thanks for visiting my profile!</i>
-
-</div>
+<p align="center"><i>⭐️ From testing software to modeling data — one bug fixed, one skill learned at a time.</i></p>
