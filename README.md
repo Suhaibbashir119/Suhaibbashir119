@@ -1,44 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:2d1b5e,100:1a1035&height=220&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:2d1b5e,100:1a1035&height=200&section=header&text=Suhaib%20Bashir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=QA%20%7C%20Software%20Tester%20%7C%20Data%20Science%20%7C%20AI-ML%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Suhaib Bashir Header"/>
 
-<h1 style="margin-top:-150px; color:white;">
-Suhaib Bashir
-</h1>
-
-<p style="color:#C4B5FD; font-size:18px;">
-QA / Software Tester | Data Science & AI-ML Enthusiast
-</p>
-
-<br/><br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Testing+%2B+Python+%2B+Pandas+%2B+Machine+Learning;Data+Science+%26+AI-ML+in+Progress;Learning+by+Building+%26+Testing" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Testing+%2B+Python+%2B+Pandas+%2B+Machine+Learning;Data+Science+%2B+AI-ML;Learning+by+Building+%2B+Testing" alt="Typing SVG"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Suhaibbashir119&label=Profile%20Views&color=8957e5&style=for-the-badge)](https://github.com/Suhaibbashir119)
+[![Profile Views](https://komarev.com/ghpvc/?username=Suhaibbashir119&label=PROFILE%20VIEWS&color=8957e5&style=for-the-badge)](https://github.com/Suhaibbashir119)
 [![Followers](https://img.shields.io/github/followers/Suhaibbashir119?label=FOLLOWERS&style=for-the-badge&labelColor=444444&color=8957e5)](https://github.com/Suhaibbashir119?tab=followers)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=444444)](https://github.com/Suhaibbashir119)
+[![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=444444)](https://github.com/Suhaibbashir119)
 
 </div>
 
 ---
 
-### 🧭 About Me
+###  About Me
 
-- 🔍 I currently work as a **Tester for websites & apps**, hunting down bugs before users find them.
-- 📊 Actively building my skills toward a career in **Data Science, Data Analytics & AI/ML**.
-- 🧠 Combining a **QA mindset** — detail-oriented, systematic and curious — with data and machine learning.
-- 🐍 Building a strong foundation in **Python, NumPy, Pandas and Data Analysis**.
-- 🤖 Gradually moving toward **Machine Learning and AI** through hands-on learning and projects.
-- 🛠️ I enjoy understanding how things work, breaking them, finding problems and improving them.
-- 📫 Reach me at **suhaibbashir.119@gmail.com**
+-  I currently work as a **Tester for websites & apps**, hunting down bugs before users find them.
+-  Actively building my skills toward a career in **Data Science, Data Analytics & AI/ML**.
+-  Combining a **QA mindset** — detail-oriented, systematic and curious — with data and machine learning.
+-  Building a strong foundation in **Python, NumPy, Pandas and Data Analysis**.
+-  Gradually moving toward **Machine Learning and AI** through hands-on learning and projects.
+-  I enjoy understanding how things work, breaking them, finding problems and improving them.
+-  Reach me at **suhaibbashir.119@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 💻 Languages
+####  Languages
 
 <p>
 
@@ -56,7 +46,7 @@ QA / Software Tester | Data Science & AI-ML Enthusiast
 
 </p>
 
-#### 📊 Data Science & AI/ML
+####  Data Science & AI/ML
 
 <p>
 
@@ -70,7 +60,7 @@ QA / Software Tester | Data Science & AI-ML Enthusiast
 
 </p>
 
-#### 🔍 QA / Testing
+####  QA / Testing
 
 <p>
 
@@ -82,7 +72,7 @@ QA / Software Tester | Data Science & AI-ML Enthusiast
 
 </p>
 
-#### 🧰 Tools
+####  Tools
 
 <p>
 
@@ -96,11 +86,9 @@ QA / Software Tester | Data Science & AI-ML Enthusiast
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Suhaibbashir119&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhaibbashir119&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
@@ -108,7 +96,7 @@ QA / Software Tester | Data Science & AI-ML Enthusiast
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <div align="center">
 
@@ -140,7 +128,7 @@ QA / Software Tester | Data Science & AI-ML Enthusiast
 
 <div align="center">
 
-<i>⭐ From testing software to working with data — one bug fixed, one skill learned at a time.</i>
+<i>“The only way to do great work is to love what you do.”</i>  <b>— Steve Jobs</b>
 
 </div>
 
