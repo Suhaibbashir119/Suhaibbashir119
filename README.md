@@ -19,11 +19,11 @@
 
 ### 🧭 About Me
 
-- 🔍 I currently work as a **Tester for websites & apps**, hunting down bugs before users find them
-- 📊 Actively upskilling toward a career as a **Data Scientist / Analyst** or **AI/ML Engineer**
-- 🎯 Goal: land my first role in that field within ~2 years, targeting **10+ LPA** as a fresher
-- 🧠 Combining a QA mindset (detail-oriented, systematic, breaks things on purpose) with data & ML skills
-- 📫 Reach me at **suhaibbashir.119@gmail.com**
+-  I currently work as a **Tester for websites & apps**, hunting down bugs before users find them
+-  Actively upskilling toward a career as a **Data Scientist / Analyst** or **AI/ML Engineer**
+-  Goal: land my first role in that field within ~2 years
+-  Combining a QA mindset (detail-oriented, systematic, breaks things on purpose) with data & ML skills
+-  Reach me at **suhaibbashir.119@gmail.com**
 
 ---
 
@@ -65,13 +65,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JunaidHassan19&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidHassan19&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidHassan19&theme=default&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhaibbashir119&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
